@@ -1,4 +1,4 @@
-// Full Adder
+// Full Adder Version1
 module full_add(a,b,cin,sum,cout);
   input a,b,cin;
   output sum,cout;
