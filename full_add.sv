@@ -1,4 +1,4 @@
-// Full Adder Version1
+// Full Adder Version1 cloned repo
 module full_add(a,b,cin,sum,cout);
   input a,b,cin;
   output sum,cout;
